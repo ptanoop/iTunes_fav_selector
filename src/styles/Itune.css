@@ -1,0 +1,27 @@
+.ituneDiv{
+    border: 1px solid #000;
+}
+
+.ituneTable{
+    width:100%;
+}
+
+.ituneArtwork100{
+    width:50px;
+}
+
+.trackNameLabel{
+   font-size: 11px;
+}
+
+.ituneImageTabCol{
+    width:100px;
+}
+
+.ituneTextTabCol{
+    text-align:left;
+}
+
+.ituneActionTabCol{
+    width:100px;
+}
